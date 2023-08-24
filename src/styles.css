@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+}
+
+.box {
+  width: 50%;
+  height: 40px;
+  background-color: green;
+}
